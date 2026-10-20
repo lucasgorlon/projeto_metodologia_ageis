@@ -2,7 +2,7 @@
 
 > Case de Product Discovery e validação de produto. Disciplina **Metodologias Ágeis e Validação de Produtos** (UniFECAF).
 >
-> **Autor:** Lucas Sgorlon Ribeiro (RA 229363) · **Período do experimento:** outubro/2026 · **Vídeo pitch:** [link do vídeo]
+> **Autor:** Lucas Sgorlon Ribeiro (RA 229363) · **Período do experimento:** outubro/2026 · **Vídeo pitch:** https://youtu.be/Sq06pA5pj3Y
 
 ---
 
@@ -227,14 +227,14 @@ flowchart LR
 
 Foram feitas 2 conversas com participantes que deixaram contato no formulário. As perguntas abertas vieram **antes** da apresentação da ideia ajustada ("contexto do alerta"), para evitar viés. Os participantes não autorizaram a gravação em áudio, e a decisão foi respeitada. As respostas abaixo foram registradas em anotações durante a conversa.
 
-### Entrevistado A ([função] · [faz plantão?]). Perfil experiente
+### Entrevistado A ([função - Analista de rede] · [faz plantão? Não]). Perfil experiente
 - **O que mais pesa ao agir:** identificar o dispositivo. Com nomes genéricos no alerta, a localização para acesso não é intuitiva.
 - **Fonte mais consultada:** logs de acesso.
 - **O que falta hoje:** saber se o equipamento é reincidente e ter dados mais precisos para acesso.
 - **Reação à ideia:** mudaria completamente. Com essas informações, poderia direcionar a energia à raiz do problema em vez de investigar a causa.
 - **Confiança:** a ameaça é a "alucinação" na sugestão de primeiro passo. Quem conhece o sistema sabe o que faz sentido, e excesso de informação desnecessária prejudicaria a confiança.
 
-### Entrevistado B ([função] · [faz plantão?]). Perfil em adaptação
+### Entrevistado B ([função - Suporte técnico] · [faz plantão? Sim]). Perfil em adaptação
 - **O que mais pesa ao agir:** a configuração dos alertas tornou a leitura vaga, sem as informações necessárias para agir.
 - **Fonte mais consultada:** clientes (quais equipamentos estão com problema) e colegas (o que testar e como prosseguir).
 - **O que falta hoje:** ainda não tem familiaridade com a linguagem dos alertas. Algo mais claro e de fácil entendimento ajudaria muito.
